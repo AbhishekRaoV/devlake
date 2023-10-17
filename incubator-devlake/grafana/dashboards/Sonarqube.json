@@ -29,7 +29,7 @@
       },
       "id": 19,
       "options": {
-        "content": "- Use Cases: This dashboard shows the code quality metrics from SonarQube.\n- Data Source Required: SonarQube v8.2+",
+        //"content": "- Use Cases: This dashboard shows the code quality metrics from SonarQube.\n- Data Source Required: SonarQube v8.2+",
         "mode": "markdown"
       },
       "pluginVersion": "8.0.6",

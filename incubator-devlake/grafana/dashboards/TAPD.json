@@ -56,7 +56,7 @@
       },
       "id": 128,
       "options": {
-        "content": "- Use Cases: This dashboard shows the basic project management metrics from TAPD.\n- Data Source Required: TAPD",
+        //"content": "- Use Cases: This dashboard shows the basic project management metrics from TAPD.\n- Data Source Required: TAPD",
         "mode": "markdown"
       },
       "pluginVersion": "8.0.6",
@@ -946,7 +946,7 @@
       },
       "id": 130,
       "options": {
-        "content": "<br/>\n\nThis dashboard is created based on this [data schema](https://devlake.apache.org/docs/DataModels/DevLakeDomainLayerSchema). Want to add more metrics? Please follow the [guide](https://devlake.apache.org/docs/Configuration/Dashboards/GrafanaUserGuide).",
+        //"content": "<br/>\n\nThis dashboard is created based on this [data schema](https://devlake.apache.org/docs/DataModels/DevLakeDomainLayerSchema). Want to add more metrics? Please follow the [guide](https://devlake.apache.org/docs/Configuration/Dashboards/GrafanaUserGuide).",
         "mode": "markdown"
       },
       "pluginVersion": "8.0.6",

@@ -40,7 +40,7 @@
           "showLineNumbers": false,
           "showMiniMap": false
         },
-        "content": "- Use Cases: This dashboard is to overview the Git and project management metrics.\n- Data Source Required: Jira + GitHub, or Jira + GitLab.",
+        //"content": "- Use Cases: This dashboard is to overview the Git and project management metrics.\n- Data Source Required: Jira + GitHub, or Jira + GitLab.",
         "mode": "markdown"
       },
       "pluginVersion": "9.5.2",
@@ -1864,7 +1864,7 @@
           "showLineNumbers": false,
           "showMiniMap": false
         },
-        "content": "<br/>\n\nThis dashboard is created based on this [data schema](https://devlake.apache.org/docs/DataModels/DevLakeDomainLayerSchema). Want to add more metrics? Please follow the [guide](https://devlake.apache.org/docs/Configuration/Dashboards/GrafanaUserGuide).",
+        //"content": "<br/>\n\nThis dashboard is created based on this [data schema](https://devlake.apache.org/docs/DataModels/DevLakeDomainLayerSchema). Want to add more metrics? Please follow the [guide](https://devlake.apache.org/docs/Configuration/Dashboards/GrafanaUserGuide).",
         "mode": "markdown"
       },
       "pluginVersion": "9.5.2",
