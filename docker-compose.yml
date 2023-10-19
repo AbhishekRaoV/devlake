@@ -33,7 +33,7 @@ services:
       --skip-log-bin
 
   grafana:
-    image: abhishekraov/devlake:5.0
+    image: abhishekraov/devlake:6.0
     ports:
       - 3002:3000
     volumes:
