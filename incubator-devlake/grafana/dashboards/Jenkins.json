@@ -20,29 +20,6 @@
   "links": [],
   "panels": [
     {
-      "datasource": null,
-      "gridPos": {
-        "h": 3,
-        "w": 24,
-        "x": 0,
-        "y": 0
-      },
-      "id": 58,
-      "options": {
-        //"content": "- Use Cases: This dashboard shows the basic CI/CD metrics from Jenkins, such as [Build Count](https://devlake.apache.org/docs/Metrics/BuildCount), [Build Duration](https://devlake.apache.org/docs/Metrics/BuildDuration) and [Build Success Rate](https://devlake.apache.org/docs/Metrics/BuildSuccessRate).\n- Data Source Required: Jenkins",
-        "mode": "markdown"
-      },
-      "pluginVersion": "8.0.6",
-      "targets": [
-        {
-          "queryType": "randomWalk",
-          "refId": "A"
-        }
-      ],
-      "title": "Dashboard Introduction",
-      "type": "text"
-    },
-    {
       "datasource": "mysql",
       "description": "Number of builds executed in the selected time range",
       "fieldConfig": {
@@ -903,28 +880,6 @@
       ],
       "title": "4.1 Mean Build Duration in Minutes [Each Month]",
       "type": "barchart"
-    },
-    {
-      "datasource": null,
-      "gridPos": {
-        "h": 2,
-        "w": 24,
-        "x": 0,
-        "y": 27
-      },
-      "id": 60,
-      "options": {
-        //"content": "<br/>\n\nThis dashboard is created based on this [data schema](https://devlake.apache.org/docs/DataModels/DevLakeDomainLayerSchema). Want to add more metrics? Please follow the [guide](https://devlake.apache.org/docs/Configuration/Dashboards/GrafanaUserGuide).",
-        "mode": "markdown"
-      },
-      "pluginVersion": "8.0.6",
-      "targets": [
-        {
-          "queryType": "randomWalk",
-          "refId": "A"
-        }
-      ],
-      "type": "text"
     }
   ],
   "refresh": "",
@@ -973,3 +928,6 @@
   "uid": "W8AiDFQnk",
   "version": 2
 }
+
+
+
